@@ -1,0 +1,16 @@
+{
+  "plugins": {
+    "hwp": {
+      "version": "1.1.0",
+      "url": "https://github.com/kwchodev/app-dist/releases/download/plugins-1/hwp-1.1.0.zip",
+      "sha256": "ffea83a4db45669b1042feb4ebd02c49615df59e1fef9f3a97683b8073f935a4",
+      "size": 10526148
+    },
+    "office": {
+      "version": "1.1.0",
+      "url": "https://github.com/kwchodev/app-dist/releases/download/plugins-1/office-1.1.0.zip",
+      "sha256": "694e0378c7d6d71e2594f7918072ba8b43089f104f46eca59bdfa8215c22e950",
+      "size": 5507224
+    }
+  }
+}
